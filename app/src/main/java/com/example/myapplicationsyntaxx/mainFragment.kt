@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.Button
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
+import androidx.navigation.fragment.navArgs
 import com.example.myapplicationsyntaxx.R
 import com.example.myapplicationsyntaxx.databinding.FragmentMainBinding
 
