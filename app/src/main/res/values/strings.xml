@@ -6,4 +6,7 @@
     <string name="textviewZurück">Drücke den Zurück-Button</string>
 
     <string name="button2">Zurück</string>
+    <string name="name">Name</string>
+    <string name="alter">Alter</string>
+    <string name="email">Email</string>
 </resources>
